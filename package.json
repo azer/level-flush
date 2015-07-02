@@ -1,6 +1,6 @@
 {
   "name": "level-flush",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Remove all keys in given LevelDB database",
   "main": "index.js",
   "scripts": {
