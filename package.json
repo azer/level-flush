@@ -20,5 +20,8 @@
     "levelup": "^1.2.1",
     "parallel-loop": "0.0.3",
     "prova": "^2.1.2"
+  },
+  "dependencies": {
+    "parallel-loop": "0.0.3"
   }
 }
